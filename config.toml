@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Welcome to the Robotics Club of BMSCE"
-  Content = "![BMSCE Logo](https://i.imgflip.com/8qcurf.jpg) The BMSCE Robotics Club humbly cultivates a space for students to explore, learn, and innovate in robotics, emphasizing teamwork and dedication to pushing boundaries in technology. Join us to embark on a journey of discovery and skill development in the fascinating world of robotics.🤖"
+  Content = "The BMSCE Robotics Club humbly cultivates a space for students to explore, learn, and innovate in robotics, emphasizing teamwork and dedication to pushing boundaries in technology. Join us to embark on a journey of discovery and skill development in the fascinating world of robotics.🤖"
 
 
   [[params.socialIcons]]
