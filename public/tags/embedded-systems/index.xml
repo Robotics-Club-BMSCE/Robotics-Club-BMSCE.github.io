@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Embedded Systems on Robotics Club BMSCE</title>
+    <link>https://examplesite.com/tags/embedded-systems/</link>
+    <description>Recent content in Embedded Systems on Robotics Club BMSCE</description>
+    <image>
+      <title>Robotics Club BMSCE</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.113.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 May 2024 20:52:32 +0530</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-Time Operating Sytems</title>
+      <link>https://examplesite.com/posts/working-with-esp8266/</link>
+      <pubDate>Mon, 06 May 2024 20:52:32 +0530</pubDate>
+      <guid>https://examplesite.com/posts/working-with-esp8266/</guid>
+      <description>Introduction to Real-Time Operating Systems A Real-Time Operating System (RTOS) is an operating system designed to serve real-time applications that process data as it comes in, typically without buffer delays. The key characteristic of an RTOS is its ability to provide a predictable response time to external events, which is crucial in environments where timing is critical.
+Key Features of RTOS Deterministic Timing: RTOS guarantees that high-priority tasks will receive CPU time at predictable intervals.</description>
+    </item>
+  </channel>
+</rss>
